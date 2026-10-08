@@ -1,10 +1,12 @@
 # 🎧 REVERB
 
+<div align="center">
+
 ### 음악 취향으로 잇는 캠퍼스 친구 매칭 서비스
 
-<div align="center">
-  <img src="./assets/mockup.png" width="700" alt="REVERB Service Mockup" />
-</div>
+<br/>
+<img src="./assets/mockup.png" width="400" alt="REVERB Service Mockup" />
+<br/>
 
 <br/>
 
@@ -19,4 +21,7 @@
 
 ---
 
+</div>
+
 > 데이터베이스프로그래밍 02분반 5팀
+> © 2026 REVERB
